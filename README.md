@@ -24,7 +24,10 @@
       npm i
       
   ## Usage
-  Do a git pull and run on your local computer. Or see video walkthrough below:
+  Do a git pull and run on your local computer. Or follow link for video walkthrough below:
+  
+
+  [e-commerce](https://drive.google.com/file/d/1N8H21H3bGYPJTg1S8aN0xT6p9vQYiI1d/view)
   
   ## License 
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
